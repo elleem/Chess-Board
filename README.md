@@ -31,7 +31,7 @@ Implement a function that determines if the queens are "under attack" based on t
 
 test the is_under-attack method with the following scenarios
 
-- [x] horiztonal attack
+- [x]  horizontal attack
 
 - [x] vertical attack
 
